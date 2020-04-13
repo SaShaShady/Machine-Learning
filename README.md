@@ -1,2 +1,2 @@
-# Supervised-Machine-Learnig
-A repo containing supervised machine learning codes
+#Machine Learning
+A repo containing all my practised Machine Learning algorithms
